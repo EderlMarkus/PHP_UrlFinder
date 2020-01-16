@@ -1,0 +1,13 @@
+body {
+  background: #282c34;
+  color: #eee;
+}
+
+.filled:hover {
+  color: rgb(139, 139, 139);
+  cursor: pointer;
+}
+
+table tr:nth-child(even) {
+  background: #4c5463;
+}

@@ -1,0 +1,15 @@
+body {
+  background: #282c34;
+  color: #eee;
+}
+
+.filled:hover {
+  color: #8b8b8b;
+  cursor: pointer;
+}
+
+table tr:nth-child(even) {
+  background: #4c5463;
+}
+
+/*# sourceMappingURL=style.css.map */
